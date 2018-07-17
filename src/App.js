@@ -1,19 +1,39 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import friends from "./friends.json";
+
+var shuffle = require('shuffle-array');
 
 class App extends Component {
+  
+  state = {
+    friends,
+    currScore: 0,
+    topScore: 0,
+    chosen: [],
+    message: ""
+  };
+
+  shuffleList = () => {
+    this.setState({ friends: shuffle(friends) })
+  };
+
+  resetGame = () => {
+    this.setState({
+      currScore: 0,
+      topScore = this.state.currScore,
+      chosen = [],
+      message = "You have already chosen that one, try again!"
+    });
+    this.shuffleList();
+  }
+
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
-        </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
-      </div>
+      <Wrapper>
+        
+      </Wrapper>
     );
   }
 }
