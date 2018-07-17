@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "Xander Bogaerts",
+      "number": 2,
+      "position": "Shortstop",
+      "image": "http://mlb.mlb.com/mlb/images/players/head_shot/593428.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Mookie Betts",
+        "number": 50,
+        "position": "Right Field",
+        "image": "http://mlb.mlb.com/mlb/images/players/head_shot/605141.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Andrew Benintendi",
+        "number": 16,
+        "position": "Left Field",
+        "image": "http://mlb.mlb.com/mlb/images/players/head_shot/643217.jpg"
+      },
+      {
+        "id": 4,
+        "name": "J. D. Martinez",
+        "number": 28,
+        "position": "Designated Hitter",
+        "image": "http://mlb.mlb.com/mlb/images/players/head_shot/502110.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Mitch Moreland",
+        "number": 18,
+        "position": "First-Base",
+        "image": "http://mlb.mlb.com/mlb/images/players/head_shot/519048.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Brock Holt",
+        "number": 12,
+        "position": "Second-Base",
+        "image": "http://mlb.mlb.com/mlb/images/players/head_shot/571788.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Rafael Devers",
+        "number": 11,
+        "position": "Third-Base",
+        "image": "http://mlb.mlb.com/mlb/images/players/head_shot/646240.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Blake Swihart",
+        "number": 23,
+        "position": "Catcher",
+        "image": "http://mlb.mlb.com/mlb/images/players/head_shot/596119.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Jackie Bradley Jr.",
+        "number": 19,
+        "position": "Center Field",
+        "image": "http://mlb.mlb.com/mlb/images/players/head_shot/598265.jpg"
+      },
+      {
+        "id": 10,
+        "name": "David Price",
+        "number": 24,
+        "position": "Pitcher",
+        "image": "http://mlb.mlb.com/mlb/images/players/head_shot/456034.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Matt Barnes",
+        "number": 32,
+        "position": "Pitcher",
+        "image": "http://mlb.mlb.com/mlb/images/players/head_shot/598264.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Craig Kimbrel",
+        "number": 46,
+        "position": "Pitcher",
+        "image": "http://mlb.mlb.com/mlb/images/players/head_shot/518886.jpg"
+      }
+    ]
