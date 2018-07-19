@@ -1,0 +1,20 @@
+.navbar {
+    padding: 20px;
+    border-bottom: 2px solid darkgreen;
+    background-color: green;
+}
+
+.brand img {
+    width: 100px;
+    height: 100px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.message {
+    color: white;
+}
+
+.score {
+    color: goldenrod;
+}
